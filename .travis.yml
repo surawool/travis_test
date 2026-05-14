@@ -1,0 +1,4 @@
+language: minimal
+
+script:
+  - echo "Travis CI is working!"
